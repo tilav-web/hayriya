@@ -6,8 +6,8 @@ import type { Metadata } from 'next'
 import "../globals.css"
 
 export const metadata: Metadata = {
-  title: 'Faith Church',
-  description: 'Faith Church official website',
+  title: 'Panteleymon',
+  description: 'Panteleymon official website',
   generator: 'Next.js',
 }
 
