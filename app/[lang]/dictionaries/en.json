@@ -7,16 +7,16 @@
   },
   "hero": {
     "title": "Panteleymon",
-    "subtitle": "Donation page for the Holy and Great Martyr Panteleymon Church",
+    "subtitle": "Donation page for the Holy and Blessed Panteleymon Church",
     "cta": "Make a Donation"
   },
   "about": {
     "title": "Our Mission",
     "description": "We are dedicated to serving our community through faith-based initiatives, helping those in need, and spreading hope and love to all.",
     "values": {
-      "title": "Our Values",
+      "title": "Our Core Values",
       "faith": "Faith",
-      "faithDesc": "Based on spiritual truth and divine guidance",
+      "faithDesc": "Rooted in spiritual truth and divine guidance",
       "service": "Charity",
       "serviceDesc": "Committed to helping others and our community",
       "love": "Pilgrimage",
@@ -25,40 +25,40 @@
   },
   "donation": {
     "title": "Support Us",
-    "description": "Your generous donation helps us continue our work in the community, support families in need, and preserve our sacred places.",
+    "description": "Your generous donation helps us continue our work in the community, assist families in need, and maintain our sacred places.",
     "buttons": {
-      "donate": "Donate",
+      "donate": "Donate Now",
       "support": "Support",
       "openPage": "Open Donation Page"
     },
     "redirectText": "By clicking the button, you will be redirected to a secure donation page",
     "qr1": {
       "title": "Via Donationalerts",
-      "description": "Visa, Mastercard, and other international payment systems are supported.",
+      "description": "Supports Visa, Mastercard, and other international payment systems.",
       "instruction": "Scan this QR code with your phone to access the donation page directly."
     },
     "qr2": {
       "title": "Via Tirikchilik.uz",
-      "description": "Uzcad, Humo, Payme, Uzum, Click payment systems are supported.",
+      "description": "Supports Uzcard, Humo, Payme, Uzum, and Click payment systems.",
       "instruction": "Scan this QR code with your phone to access the donation page directly."
     },
     "qr3": {
-      "title": "System you want",
-      "description": "Scan this QR code to make a quick donation",
+      "title": "Hungary OTP Bank",
+      "description": "Euro OTP VHUHB",
       "instruction": "Scan this QR code with your phone to access the donation page directly."
     }
   },
   "contact": {
-    "title": "Contact Us",
+    "title": "Get in Touch",
     "addressTitle": "Address",
     "phoneTitle": "Phone",
     "emailTitle": "Email",
-    "serviceTimesTitle": "Verification Information"
+    "serviceTimesTitle": "Bank Details"
   },
   "footer": {
-    "address": "Nukus city, A. Shomurotova street, house 97",
+    "address": "Nukus Fortress, A.Shomurotova Street, Block 97",
     "phone": "(36122) 222-34-75, (36122) 222-34-86",
     "email": "info@panteleymon.com",
-    "hours": "MFO: 00621,\nTIN: 204611458"
+    "hours": "MFO: 00621,\nINN: 204611458 SWIFT/BIC code: UZHOUZ22. Bank: Ipoteka-bank (Joint-Stock Commercial Mortgage Bank). City: Tashkent. Country: Uzbekistan."
   }
 }
