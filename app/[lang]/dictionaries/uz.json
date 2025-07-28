@@ -43,8 +43,8 @@
       "instruction": "Xayriya sahifasiga to'g'ridan-to'g'ri kirish uchun telefoningiz bilan ushbu QR kodni skanerlang."
     },
     "qr3": {
-      "title": "Siz istagan tizim",
-      "description": "Tez xayriya qilish uchun telefoningiz bilan ushbu QR kodni skanerlang",
+      "title": "Vengriya OTP Bank",
+      "description": "Evro OTP VHUHB",
       "instruction": "Xayriya sahifasiga to'g'ridan-to'g'ri kirish uchun telefoningiz bilan ushbu QR kodni skanerlang."
     }
   },
@@ -53,12 +53,12 @@
     "addressTitle": "Manzil",
     "phoneTitle": "Telefon",
     "emailTitle": "Elektron pochta",
-    "serviceTimesTitle": "Tekshiruv ma'lumotlari"
+    "serviceTimesTitle": "Bank ma'lumotlari"
   },
   "footer": {
     "address": "Nukis qalasi, A.Shomurotova ko'chasi, 97-joy",
     "phone": "(36122) 222-34-75, (36122) 222-34-86",
     "email": "info@panteleymon.com",
-    "hours": "MFO: 00621,\nINN: 204611458"
+    "hours": "MFO: 00621,\nINN: 204611458 SWIFT/BIC код: UZHOUZ22. Банк: Ipoteka-bank (Акционерный коммерческий ипотечный банк). Город: Ташкент.Страна: Узбекистан."
   }
 }

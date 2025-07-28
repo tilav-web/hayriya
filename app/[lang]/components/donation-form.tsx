@@ -47,7 +47,7 @@ export function DonationForm({ dict }: DonationFormProps) {
               {dict.donation.qr1.description}
             </CardDescription>
           </CardHeader>
-          <CardContent className="flex flex-col items-center">
+          {/* <CardContent className="flex flex-col items-center">
             <div className="w-48 h-48 bg-gray-100 border-gray-300 rounded-lg flex items-center justify-center">
               <div className="text-center text-gray-500">
                 <Image
@@ -71,7 +71,7 @@ export function DonationForm({ dict }: DonationFormProps) {
               {dict.donation.buttons.openPage}
               <ExternalLink className="h-4 w-4" />
             </Button>
-          </CardContent>
+          </CardContent> */}
         </Card>
       </div>
       <div>
@@ -90,7 +90,7 @@ export function DonationForm({ dict }: DonationFormProps) {
               {dict.donation.qr2.description}
             </CardDescription>
           </CardHeader>
-          <CardContent className="flex flex-col items-center">
+          {/* <CardContent className="flex flex-col items-center">
             <div className="w-48 h-48 bg-gray-100 border-gray-300 rounded-lg flex items-center justify-center">
               <div className="text-center text-gray-500">
                 <Image
@@ -114,7 +114,7 @@ export function DonationForm({ dict }: DonationFormProps) {
               {dict.donation.buttons.openPage}
               <ExternalLink className="h-4 w-4" />
             </Button>
-          </CardContent>
+          </CardContent> */}
         </Card>
       </div>
       <div>
@@ -129,29 +129,7 @@ export function DonationForm({ dict }: DonationFormProps) {
             </CardDescription>
           </CardHeader>
           <CardContent className="flex flex-col items-center">
-            <div className="w-48 h-48 bg-gray-100 border-2 border-dashed border-gray-300 rounded-lg flex items-center justify-center">
-              <div className="text-center text-gray-500">
-                <Image
-                  width={200}
-                  height={200}
-                  src={"/qr-code1.jpg"}
-                  className="w-full h-full"
-                  alt="qr code "
-                />
-              </div>
-            </div>
-            <p className="text-sm text-muted-foreground mt-4 text-center">
-              {dict.donation.qr3.instruction}
-            </p>
-            <Button
-              onClick={() => handleDonationClick(1)}
-              variant="outline"
-              size="sm"
-              className="mt-4 gap-2 bg-transparent"
-            >
-              {dict.donation.buttons.openPage}
-              <ExternalLink className="h-4 w-4" />
-            </Button>
+            HU 75117820072122048500000000 SWIFT/BIC UZHOUZ22
           </CardContent>
         </Card>
       </div>
