@@ -44,7 +44,8 @@
     },
     "qr3": {
       "title": "Hungarian OTP Bank",
-      "description": "Euro OTP VHUHB GALIYA RAKHIMOVA 5397 1700 0496 4053",
+      "description": "Euro OTP VHUHB",
+      "viza_card": "GALIYA RAXIMOVA 5397 1700 0496 4053",
       "instruction": "Scan this QR code with your phone to go directly to the donation page."
     }
   },

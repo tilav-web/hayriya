@@ -44,7 +44,8 @@
     },
     "qr3": {
       "title": "Vengriya OTP Bank",
-      "description": "Evro OTP VHUHB GALIYA RAXIMOVA 5397 1700 0496 4053",
+      "description": "Evro OTP VHUHB",
+      "viza_card": "GALIYA RAXIMOVA 5397 1700 0496 4053",
       "instruction": "Xayriya sahifasiga to'g'ridan-to'g'ri kirish uchun telefoningiz bilan ushbu QR kodni skanerlang."
     }
   },

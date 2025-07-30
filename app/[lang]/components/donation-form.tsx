@@ -126,6 +126,8 @@ export function DonationForm({ dict }: DonationFormProps) {
             </CardTitle>
             <CardDescription className="text-center">
               {dict.donation.qr3.description}
+              <br />
+              {dict.donation.qr3.viza_card}
             </CardDescription>
           </CardHeader>
           <CardContent className="flex flex-col items-center">
