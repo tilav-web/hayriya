@@ -21,7 +21,7 @@ export function DonationForm({ dict }: DonationFormProps) {
 
     if (witch === 1)
       return window.open(
-        "https://www.donationalerts.com/r/saidmuhammadalixon",
+        "https://www.donationalerts.com/r/panteleymon",
         "_blank"
       );
 
@@ -47,13 +47,13 @@ export function DonationForm({ dict }: DonationFormProps) {
               {dict.donation.qr1.description}
             </CardDescription>
           </CardHeader>
-          {/* <CardContent className="flex flex-col items-center">
+          <CardContent className="flex flex-col items-center">
             <div className="w-48 h-48 bg-gray-100 border-gray-300 rounded-lg flex items-center justify-center">
               <div className="text-center text-gray-500">
                 <Image
                   width={200}
                   height={200}
-                  src={"/qr-code1.jpg"}
+                  src={"/1234.jpg"}
                   className="w-full h-full"
                   alt="qr code "
                 />
@@ -71,7 +71,7 @@ export function DonationForm({ dict }: DonationFormProps) {
               {dict.donation.buttons.openPage}
               <ExternalLink className="h-4 w-4" />
             </Button>
-          </CardContent> */}
+          </CardContent>
         </Card>
       </div>
       <div>
@@ -90,7 +90,7 @@ export function DonationForm({ dict }: DonationFormProps) {
               {dict.donation.qr2.description}
             </CardDescription>
           </CardHeader>
-          {/* <CardContent className="flex flex-col items-center">
+          <CardContent className="flex flex-col items-center">
             <div className="w-48 h-48 bg-gray-100 border-gray-300 rounded-lg flex items-center justify-center">
               <div className="text-center text-gray-500">
                 <Image
@@ -114,7 +114,7 @@ export function DonationForm({ dict }: DonationFormProps) {
               {dict.donation.buttons.openPage}
               <ExternalLink className="h-4 w-4" />
             </Button>
-          </CardContent> */}
+          </CardContent>
         </Card>
       </div>
       <div>

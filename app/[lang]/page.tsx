@@ -171,7 +171,9 @@ export default async function Page({
       <section id="contact" className="py-20 bg-gray-50">
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto">
-            <h2 className="text-4xl font-bold text-center mb-12">{dict.contact.title}</h2>
+            <h2 className="text-4xl font-bold text-center mb-12">
+              {dict.contact.title}
+            </h2>
             <div className="grid md:grid-cols-2 gap-8">
               <Card>
                 <CardHeader>
@@ -236,6 +238,9 @@ export default async function Page({
           <p className="text-gray-400">
             {dict.footer.phone} | {dict.footer.email}
           </p>
+        </div>
+        <div className="flex items-center justify-center">
+          <Link href={"https://t.me/Tilav_web"}>Developer</Link>
         </div>
       </footer>
     </div>
